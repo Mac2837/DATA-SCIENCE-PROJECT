@@ -1,2 +1,3 @@
 # DATA-SCIENCE-PROJECT
-This is mine project
+A) load data using machine learning project
+
